@@ -1,0 +1,38 @@
+{
+  "name": "ice-cream-app",
+  "version": "1.0.0",
+  "private": true,
+  "author": "asmaabrs97",
+  "description": "Application interactive de commande de glaces personnalisées",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/pwa": "^3.3.5",
+    "@vite-pwa/nuxt": "^0.1.1",
+    "nuxt": "^3.7.1",
+    "styled-components": "^5.3.10"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.2.96",
+    "sass": "^1.66.1",
+    "vuetify": "^3.4.0-alpha.1"
+  },
+  "keywords": [
+    "nuxt",
+    "vue",
+    "ice-cream",
+    "interactive",
+    "asmaabrs97"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asmaabrs97/ice-cream-app.git"
+  }
+}
